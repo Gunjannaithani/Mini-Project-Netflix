@@ -167,8 +167,26 @@ h3{
 
 /*kidsprocont end*/
 
-.footercont{
+#footercont{
     width: 100%;
     height: 300px;
     border:2px solid black;
+    background-color: black;
 }
+
+p{
+    color:white;
+}
+
+.container1,.container2,.container3{
+    width:33%;
+    border:1px solid black;
+    display:inline-block;
+    
+}
+
+.container1{
+    padding-top:3%;
+    padding-left:5%;
+}
+
